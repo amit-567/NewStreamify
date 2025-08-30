@@ -21,10 +21,10 @@ Highlights:
 
 ```
 PORT=5001
-MONGO_URI=your_mongo_uri
-STEAM_API_KEY=your_steam_api_key
-STEAM_API_SECRET=your_steam_api_secret
-JWT_SECRET_KEY=your_jwt_secret
+MONGO_URI=
+STEAM_API_KEY=
+STEAM_API_SECRET=
+JWT_SECRET_KEY=
 NODE_ENV=development
 ```
 
