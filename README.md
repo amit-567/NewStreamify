@@ -31,7 +31,7 @@ NODE_ENV=development
 ### Frontend (`/frontend`)
 
 ```
-VITE_STREAM_API_KEY=your_stream_api_key
+VITE_STREAM_API_KEY=
 ```
 
 ---
