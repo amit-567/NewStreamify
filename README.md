@@ -21,17 +21,17 @@ Highlights:
 
 ```
 PORT=5001
-MONGO_URI=
-STEAM_API_KEY=
-STEAM_API_SECRET=
-JWT_SECRET_KEY=
+MONGO_URI
+STEAM_API_KEY
+STEAM_API_SECRET
+JWT_SECRET_KEY
 NODE_ENV=development
 ```
 
 ### Frontend (`/frontend`)
 
 ```
-VITE_STREAM_API_KEY=
+VITE_STREAM_API_KEY
 ```
 
 ---
@@ -51,3 +51,6 @@ cd frontend
 npm install
 npm run dev
 ```
+# My Project
+
+Check out the live website 👉 [Click Here](https://mywebsite.com)
