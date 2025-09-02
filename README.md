@@ -1,7 +1,4 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
-## My Project
-
-Check out the live website 👉 [Click Here]((https://newstreamify.onrender.com))
 
 Highlights:
 
