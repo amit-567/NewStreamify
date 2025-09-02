@@ -1,4 +1,7 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+# My Project
+Check out the live website 👉 [Click Here]((https://newstreamify.onrender.com))
+
 
 Highlights:
 
@@ -51,6 +54,5 @@ cd frontend
 npm install
 npm run dev
 ```
-# My Project
 
-Check out the live website 👉 [Click Here](https://mywebsite.com)
+
